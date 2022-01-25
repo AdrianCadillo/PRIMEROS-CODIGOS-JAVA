@@ -22,4 +22,8 @@ public class Aplicacion {
         System.out.println(suma);
     }
     
+    public static void saludo(){
+        System.out.println("Hola, suscríbete a mi canal JavaTecnologySoft");
+    }
+    
 }
