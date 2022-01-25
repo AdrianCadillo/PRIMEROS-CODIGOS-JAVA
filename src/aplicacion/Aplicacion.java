@@ -16,6 +16,10 @@ public class Aplicacion {
      */
     public static void main(String[] args) {
         System.out.println("Hola Mundo, desde java");
+        int valor1 = 3;
+        int valor2=32;
+        int suma = valor1+ valor2;
+        System.out.println(suma);
     }
     
 }
